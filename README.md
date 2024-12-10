@@ -36,8 +36,7 @@ Setup
 
 Clone the repository:
 
-git clone <repository_url>
-cd <repository_name>
+git clone (https://github.com/epamcom/spark/tree/1b8babe8da9caa6f9e56535dc6691dd1cbf187cf)
 
 
 Execution
